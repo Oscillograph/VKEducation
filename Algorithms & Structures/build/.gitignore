@@ -1,0 +1,13 @@
+*.dev
+*.o
+*.exe
+*.ico
+*.layout
+*.debug
+*.bak
+*.rc
+*.res
+*.win
+app.ico
+/VKEducation.dev
+/VKEducation_private.h
