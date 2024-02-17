@@ -8,6 +8,7 @@
 *.rc
 *.res
 *.win
+*.bookmarks
 app.ico
 /VKEducation.dev
 /VKEducation_private.h
